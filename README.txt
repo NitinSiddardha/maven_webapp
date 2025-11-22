@@ -7,6 +7,11 @@ Hello !
 
 
 
+
+
+
+
+
 minikube start
 
 kubectl create deployment mynginx --image=nginx
