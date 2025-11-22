@@ -26,3 +26,6 @@ kubectl get services
 docker pull jasonrivers/nagios:latest
 
 docker run --name nagiosdemo -p 8888:80 jasonrivers/nagios:latest
+
+
+https://www.perplexity.ai/search/look-i-am-a-complete-beginner-OqeNLCI9RYybSr_RE9wrNQ#7
